@@ -1,0 +1,80 @@
+﻿@model StudentManagementSystem.ViewModel.DepartmentVM
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2> Department Details</h2>
+<table id="example" class="display nowrap table table-bordered table-hover table-responsive" style="width:100%">
+
+    <thead>
+        <tr class="text-center text-nowrap">
+            <td colspan="11" style="font-size:15px; font-weight:bold">
+                Department of @Model.Name <br />
+                Code: @Model.Code<br/>
+                Total Student: @Model.Students.Count<br />
+                All Student Information
+            </td>
+        </tr>
+        <tr>
+            <th>S/N</th>
+            <th>Name</th>
+            <th>Student Id No</th>
+            <th>Semester</th>
+            <th>Birth Date</th>
+            <th>Father's Name</th>
+            <th>Mother's Name</th>
+            <th>Contact No</th>
+            <th>Country</th>
+            <th>City</th>
+            <th>Address</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Students.Count > 0)
+        {
+            int serial = 0;
+            foreach (var student in Model.Students)
+            {
+                serial++;
+                <tr>
+                    <td>@serial</td>
+                    <td>@student.Name</td>
+                    <td>@student.StudentIdNo</td>
+                    <td>@student.Semister.Name</td>
+                    <td>@student.DateOfBirth.Value.ToString("dd/MM/yyyy")</td>
+                    <td>@student.Parent.FathersName</td>
+                    <td>@student.Parent.MothersName</td>
+                    <td>@student.ContactNo</td>
+                    <td>@student.City.Country.Name</td>
+                    <td>@student.City.Name</td>
+                    <td>@student.Address</td>
+                </tr>
+            }
+        }
+        
+    </tbody>
+</table>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+<script src="~/Scripts/dataTables/ai.0.22.9-build00167.js"></script>
+<script src="~/Scripts/dataTables/buttons.flash.min.js"></script>
+<script src="~/Scripts/dataTables/buttons.html5.min.js"></script>
+<script src="~/Scripts/dataTables/buttons.print.min.js"></script>
+<script src="~/Scripts/dataTables/dataTables.buttons.min.js"></script>
+<script src="~/Scripts/dataTables/jszip.min.js"></script>
+<script src="~/Scripts/dataTables/pdfmake.min.js"></script>
+<script src="~/Scripts/dataTables/vfs_fonts.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#example').DataTable({
+                dom: 'Bfrtip',
+                buttons: [
+                    'copy', 'csv', 'excel', 'pdf', 'print'
+                ]
+            });
+        });
+    </script>
+    }

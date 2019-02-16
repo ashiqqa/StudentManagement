@@ -1,0 +1,137 @@
+﻿@model StudentManagementSystem.ViewModel.StudentVM
+@{
+    ViewBag.Title = "Profile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    if ((string)Session["user"] == "student")
+    {
+        Layout = "~/Views/Shared/_Layout2.cshtml";
+    }
+}
+
+<h2>Profile</h2>
+<br />
+<label class="text-success">@TempData["Updated"]</label>
+<div class="profileTop">
+    <div class="profileImage">
+      @{ 
+          if (Model.Images.Count() > 0)
+          {
+              var index = Model.Images.Count() - 1;
+              if (Model.Images[index].FileName != null)
+              {
+                    <img src="~/images/@Model.Images[index].FileName" class="img-responsive img-rounded" height="150" width="150"/>
+              }
+          }
+          else
+          {
+            <img src="~/images/default.png" class="img-responsive img-rounded" height="150" width="150" />
+          }
+    }
+    </div>
+    <button class="btn btn-primary editBtn proEditBtn" width="100" value="@Model.Id">
+        <a href="/Student/Update?id=@Model.Id" width="100">Edit &nbsp; &nbsp; <span class="glyphicon glyphicon-edit"></span></a>
+    </button>
+</div>
+
+<table class="table table-bordered table-responsive table-hover">
+    <tr>
+        <td>Name</td>
+        <td>@Model.Name</td>
+    </tr>
+    <tr>
+        <td>Student Id No</td>
+        <td>@Model.StudentIdNo</td>
+    </tr>
+    <tr>
+        <td>Department</td>
+        <td>@Model.Department.Name</td>
+    </tr>
+    <tr>
+        <td>Session</td>
+        <td>@Model.Sesion.Name</td>
+    </tr>
+    <tr>
+        <td>Country</td>
+        <td>@Model.City.Country.Name</td>
+    </tr>
+    <tr>
+        <td>City</td>
+        <td>@Model.City.Name</td>
+    </tr>
+    <tr>
+        <td>Date of Birth</td>
+        <td>@Model.DateOfBirth.Value.ToString("dd MMM, yyyy")</td>
+    </tr>
+    <tr>
+        <td>Gender</td>
+        <td>@Model.Gender</td>
+    </tr>
+    <tr>
+        <td>Religion</td>
+        <td>@Model.Religion</td>
+    </tr>
+    <tr>
+        <td>Skills</td>
+        <td>
+            
+            @foreach (var skill in Model.Skills)
+            {
+                if (skill.IsSelected == true)
+                {
+                    <span>@skill.ITskill &nbsp; &nbsp;</span>
+                }
+            }
+        
+        </td>
+    </tr>
+    <tr>
+        <td>Address</td>
+        <td>@Model.Address</td>
+    </tr>
+    <tr>
+        <td>Mobile No</td>
+        <td>@Model.ContactNo</td>
+    </tr>
+    <tr>
+        <td>Email Address</td>
+        <td>@Model.Email</td>
+    </tr>
+    <tr>
+        <td>Bank Account</td>
+        <td>
+             <table class="table table-bordered">
+               <tr>
+                    <td>@Model.BankAccount.Bank.Name</td>
+                    <td>@Model.BankAccount.AccNumber</td>
+               </tr>
+             </table>
+        </td>
+    </tr>
+    <tr>
+        <td>Father's Name</td>
+        <td>@Model.Parent.FathersName</td>
+    </tr>
+    <tr>
+        <td>Mother's Name</td>
+        <td>@Model.Parent.MothersName</td>
+    </tr>
+    <tr>
+        <td>Images</td>
+        <td>
+            @{
+                foreach (var img in Model.Images)
+                {
+                    if (img.FileName != null)
+                    {
+                        <img src="~/images/@img.FileName" class="img-responsive" style="padding:2px; float:left; height:100px; width:100px;" />
+                    }
+                }
+            }
+        </td>
+    </tr>
+</table>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="~/Scripts/CustomJs/Student.js"></script>
+}

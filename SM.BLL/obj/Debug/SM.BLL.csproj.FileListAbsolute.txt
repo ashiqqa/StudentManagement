@@ -1,0 +1,61 @@
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\obj\Debug\SM.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\SM.Models.dll
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\SM.Models.pdb
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\EntityFramework.xml
+I:\StudentManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+I:\StudentManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+I:\StudentManagementSystem\SM.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\StudentManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+I:\StudentManagementSystem\SM.BLL\bin\Debug\SM.Models.dll
+I:\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.Helpers.dll
+I:\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.Mvc.dll
+I:\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.Razor.dll
+I:\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.WebPages.dll
+I:\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+I:\StudentManagementSystem\SM.BLL\bin\Debug\EntityFramework.dll
+I:\StudentManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+I:\StudentManagementSystem\SM.BLL\bin\Debug\SM.Models.pdb
+I:\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.Helpers.xml
+I:\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.Mvc.xml
+I:\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.Razor.xml
+I:\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.WebPages.xml
+I:\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+I:\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+I:\StudentManagementSystem\SM.BLL\bin\Debug\EntityFramework.xml
+I:\StudentManagementSystem\SM.BLL\obj\Debug\SM.BLL.csprojResolveAssemblyReference.cache
+I:\StudentManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+I:\StudentManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\SM.BLL.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\SM.BLL.pdb
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\SM.DAL.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\SM.Models.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.Helpers.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\EntityFramework.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\SM.DAL.pdb
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\SM.Models.pdb
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.Helpers.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\bin\Debug\EntityFramework.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\obj\Debug\SM.BLL.csprojResolveAssemblyReference.cache
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\obj\Debug\SM.BLL.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.BLL\obj\Debug\SM.BLL.pdb

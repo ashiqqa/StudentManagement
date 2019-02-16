@@ -1,0 +1,106 @@
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.dll
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.pdb
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\SM.DAL.dll.config
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\SM.DAL.dll
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\SM.DAL.pdb
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\SM.Models.dll
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\SM.Models.pdb
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.InitialCreate.resources
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.csproj.GenerateResource.Cache
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.Student_and_Session_Modified.resources
+I:\StudentManagementSystem\SM.DAL\bin\Debug\SM.DAL.dll.config
+I:\StudentManagementSystem\SM.DAL\bin\Debug\SM.DAL.dll
+I:\StudentManagementSystem\SM.DAL\bin\Debug\SM.DAL.pdb
+I:\StudentManagementSystem\SM.DAL\bin\Debug\EntityFramework.dll
+I:\StudentManagementSystem\SM.DAL\bin\Debug\EntityFramework.SqlServer.dll
+I:\StudentManagementSystem\SM.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\StudentManagementSystem\SM.DAL\bin\Debug\SM.Models.dll
+I:\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.Helpers.dll
+I:\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.Mvc.dll
+I:\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.Razor.dll
+I:\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.WebPages.dll
+I:\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.WebPages.Razor.dll
+I:\StudentManagementSystem\SM.DAL\bin\Debug\SM.Models.pdb
+I:\StudentManagementSystem\SM.DAL\bin\Debug\EntityFramework.xml
+I:\StudentManagementSystem\SM.DAL\bin\Debug\EntityFramework.SqlServer.xml
+I:\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.Helpers.xml
+I:\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.Mvc.xml
+I:\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.Razor.xml
+I:\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.WebPages.xml
+I:\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+I:\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.WebPages.Razor.xml
+I:\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.csprojResolveAssemblyReference.cache
+I:\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.InitialCreate.resources
+I:\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.Student_and_Session_Modified.resources
+I:\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.Student_model_modified.resources
+I:\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.student_modified.resources
+I:\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.student_modified1.resources
+I:\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.parent_modified.resources
+I:\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.modified.resources
+I:\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.Image_mapped.resources
+I:\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.modified1.resources
+I:\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.modified2.resources
+I:\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.contactNo_added.resources
+I:\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.csproj.GenerateResource.Cache
+I:\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.dll
+I:\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.pdb
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\SM.DAL.dll.config
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\SM.DAL.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\SM.DAL.pdb
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\EntityFramework.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\SM.Models.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.Helpers.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.Mvc.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.Razor.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.WebPages.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\SM.Models.pdb
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\EntityFramework.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.Helpers.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.Mvc.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.Razor.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.WebPages.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.csprojResolveAssemblyReference.cache
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.InitialCreate.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.Student_and_Session_Modified.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.Student_model_modified.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.student_modified.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.student_modified1.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.parent_modified.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.modified.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.Image_mapped.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.modified1.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.modified2.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.contactNo_added.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.csproj.GenerateResource.Cache
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.pdb
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.user_name_modified.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.DateOfBirth_added.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.img_not_nullable.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.Gender_added.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.restore.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.image_field_modified.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.Bank_table_modified.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.student_bank_modified.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.bank_modified.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.dateType_modified.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.Email_field_added.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.religion_added.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.skill_removed.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.skill.resources
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.DAL\obj\Debug\SM.DAL.Migrations.test.resources

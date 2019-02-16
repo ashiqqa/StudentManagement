@@ -1,0 +1,62 @@
+﻿@model SM.Models.User
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/style.css" rel="stylesheet" />
+</head>
+<body>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    
+    
+    @using (Html.BeginForm()) 
+    {
+        @Html.AntiForgeryToken()
+        
+        <div class="form-horizontal">
+            <div class="" style="background:#c9c7cc; height:350px; width:300px; margin:0 auto; margin-top: 80px; padding:10px; top:50px; box-shadow:0px 0px 10px 0px; border-radius:15px 15px 5px 5px;">
+                    @ViewBag.Msg
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <h4 class="col-md-12" style="text-align:center; padding:10px; background:#0fbacb; color:#fff; ">Welcome back!</h4>
+                <br />
+                        <div class="form-group">
+                            @Html.Label("User Name/ContactNo", htmlAttributes: new { @class = " col-md-12" })
+                            <div class="col-md-12">
+                                @Html.EditorFor(model => model.UserNameOrContact, new { htmlAttributes = new { @class = "form-control", @placeholder = "User Name or Contact No" } })
+                                @Html.ValidationMessageFor(model => model.UserNameOrContact, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = " col-md-12" })
+                            <div class="col-md-12">
+                                <input type="password" name="Password" id="Password" class="form-control" placeholder="Password" />
+                                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                        <label class="text-danger" style="font-weight:normal;">@ViewBag.NotFound</label>
+                        <div class="form-group">
+                            <div class="col-md-offset-2 col-md-10">
+                                <input type="submit" value="Login" class="btn btn-success col-md-9" />
+                            </div>
+                        </div>
+            </div>
+        </div>
+    }
+    
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>

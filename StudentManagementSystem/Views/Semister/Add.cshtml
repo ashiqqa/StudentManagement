@@ -1,0 +1,88 @@
+﻿@model StudentManagementSystem.ViewModel.SemisterVM
+
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Add </h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>New Semister</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Code, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Code, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Code, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+<div class="CityTable">
+    @{
+        if (Model.Semisters.Count>0)
+        {
+            <table class="table table-bordered table-hover">
+                <thead style="background:#d8d3d3">
+                    <tr class="">
+                        <td>S/N</td>
+                        <td>Name</td>
+                        <td>Code</td>
+                        <td>Delete</td>
+                        <td>Edit</td>
+                        <td>Details</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{ int serial = 0;}
+                    @foreach (var semi in Model.Semisters)
+                    {
+                        serial++;
+                        <tr>
+                            <td>@serial</td>
+                            <td>@semi.Name</td>
+                            <td>@semi.Code</td>
+                            <td>
+                                <button class="btn btn-danger deleteBtn" value="@semi.Id"><span class="glyphicon glyphicon-trash"></span></button>
+                            </td>
+                            <td>
+                                <button class="btn btn-primary editBtn" value="@semi.Id"><a href="/Semister/Update?id=@semi.Id"><span class="glyphicon glyphicon-edit"></span></a></button>
+                            </td>
+                            <td>
+                                <button class="btn btn-info infoBtn" value="@semi.Id"><a href="/Semister/Details?id=@semi.Id"><span class="glyphicon glyphicon-info-sign"></span></a></button>
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+                        }
+    }
+
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="~/Scripts/CustomJs/Semister.js"></script>
+}

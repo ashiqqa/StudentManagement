@@ -1,0 +1,38 @@
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\obj\Debug\SM.Models.csprojResolveAssemblyReference.cache
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\obj\Debug\SM.Models.dll
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\obj\Debug\SM.Models.pdb
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\bin\Debug\SM.Models.dll
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\bin\Debug\SM.Models.pdb
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\Missba\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\bin\Debug\System.Web.Mvc.xml
+I:\StudentManagementSystem\SM.Models\bin\Debug\SM.Models.dll
+I:\StudentManagementSystem\SM.Models\bin\Debug\SM.Models.pdb
+I:\StudentManagementSystem\SM.Models\bin\Debug\System.Web.Mvc.dll
+I:\StudentManagementSystem\SM.Models\bin\Debug\System.Web.WebPages.dll
+I:\StudentManagementSystem\SM.Models\bin\Debug\System.Web.WebPages.Razor.dll
+I:\StudentManagementSystem\SM.Models\bin\Debug\System.Web.Razor.dll
+I:\StudentManagementSystem\SM.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\StudentManagementSystem\SM.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\StudentManagementSystem\SM.Models\bin\Debug\System.Web.Mvc.xml
+I:\StudentManagementSystem\SM.Models\bin\Debug\System.Web.WebPages.xml
+I:\StudentManagementSystem\SM.Models\bin\Debug\System.Web.WebPages.Razor.xml
+I:\StudentManagementSystem\SM.Models\bin\Debug\System.Web.Razor.xml
+I:\StudentManagementSystem\SM.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+I:\StudentManagementSystem\SM.Models\obj\Debug\SM.Models.csprojResolveAssemblyReference.cache
+I:\StudentManagementSystem\SM.Models\obj\Debug\SM.Models.dll
+I:\StudentManagementSystem\SM.Models\obj\Debug\SM.Models.pdb
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\bin\Debug\SM.Models.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\bin\Debug\SM.Models.pdb
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\bin\Debug\System.Web.Razor.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\bin\Debug\System.Web.Razor.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\obj\Debug\SM.Models.csprojResolveAssemblyReference.cache
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\obj\Debug\SM.Models.dll
+C:\Users\HP ProDesk\Documents\Visual Studio 2015\Projects\StudentManagementSystem\SM.Models\obj\Debug\SM.Models.pdb
